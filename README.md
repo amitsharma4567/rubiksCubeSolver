@@ -72,12 +72,12 @@ The main.cpp file contains various test cases demonstrating different solvers. U
 
 ##  Algorithm Comparison
 
-| Algorithm | Time Complexity | Space Complexity | Optimality | Use Case |
-|-----------|----------------|------------------|------------|----------|
-| DFS | O(b^d) | O(d) | No | Quick solutions |
-| BFS | O(b^d) | O(b^d) | Yes | Optimal solutions |
-| IDDFS | O(b^d) | O(d) | Yes | Memory-efficient optimal |
-| IDA* | O(b^d) | O(d) | Yes | Fastest optimal solutions |
+| Algorithm | Optimality |
+|-----------|----------------|
+| DFS | Quick solutions |
+| BFS | Optimal solutions |
+| IDDFS | Memory-efficient optimal |
+| IDA* | Fastest optimal solutions |
 
 ##  Customization
 
