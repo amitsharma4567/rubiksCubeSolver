@@ -26,8 +26,7 @@ This project demonstrates advanced algorithmic problem-solving through the imple
 
 ##  Tech Stack
 
-- **Language:** C++14
-- **Build System:** CMake 3.20+
+- **Language:** C++
 - **Data Structures:** Arrays, Bitboards, Hash Tables
 - **Algorithms:** Graph Search, Heuristic Functions, Pattern Matching
 
